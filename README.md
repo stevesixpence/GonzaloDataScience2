@@ -9,6 +9,11 @@ Cabe destacar que los resultados muy resumidos son:
 4. Se obtienen metricas de validacion:
    
     ✓ Accuracy: 0.8758
+   
     ✓ Precision: 0.7887
+   
     ✓ Recall: 0.8758
+   
     ✓ F1 Score: 0.8246
+   
+Gracias por la cursada a los profesores Jorge Ruiz y Anderson Ocaña!
