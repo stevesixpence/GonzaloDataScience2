@@ -7,6 +7,7 @@ Cabe destacar que los resultados muy resumidos son:
 2. Se obtine un 87.51% de Accuracy en las predicciones
 3. Afinando Hiperparametros se lega a un 87.57% de Accuracy
 4. Se obtienen metricas de validacion:
+   
     ✓ Accuracy: 0.8758
     ✓ Precision: 0.7887
     ✓ Recall: 0.8758
